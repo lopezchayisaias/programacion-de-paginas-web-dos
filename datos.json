@@ -1,0 +1,53 @@
+
+    [    
+        {
+            "nombre":"stu"
+            "imagen":"descarga(2)jpg"
+            "descripcion":"Stu es un Brawler Común que se desbloquea como recompensa de el camino de trofeos al alcanzar 10000 trofeos. Stu tiene poca salud, daño moderado, alta movilidad con su súper y la habilidad única de cargar su súper de un solo golpe."
+        }
+        {
+            "nombre":"belle"
+            "imagen":"images/Belle1-1.jpg"
+            "descripcion":"Belle es una Brawler Cromática de la temporada 6 del Brawl Pass: La Banda de Brazo de Oro. Tiene una salud bastante baja pero mucha habilidad con respecto al daño y su alcance."
+        }
+        {
+            "nombre":"poco"
+            "imagen":"images/poco-desktop-wallpaper-1-1024x390.jpg"
+            "descripcion":"Descripción. Poco es un brawler de tipo especial que destaca principalmente por la gran amplitud de su ataque y por su papel sanador. Puede infligir daño a múltiples enemigos dentro de su amplio rango de ataque. Aparte de eso, sus estadísticas son medias, con una salud moderada-alta y baja producción de daño."
+        }
+        {
+            "nombre":"sandy"
+            "imagen":"images/descarga sandy.jpeg"
+            "descripcion":"Sandy es un brawler adormilado que tiene una conexión especial con la arena. Ataca a los enemigos a pedradas e invoca una tormenta de arena para proteger a sus aliados. Sandy es un Brawler legendario con salud moderada que puede infligir daño a múltiples enemigos a la vez con su penetrante ataque lanzador de arena."
+        }
+        {
+            "nombre":"sprout"
+            "imagen":"images/descarga sprout.jpg"
+            "descripcion":"Sprout es un Brawler robot Mítico creado por Rosa y Bea con una salud moderadamente baja y una producción de daño moderada, pero inmensa utilidad con su Super. Ataca lanzando una bomba de semillas sobre los obstáculos que rebotan en el suelo y las paredes."
+        }
+        {
+            "nombre":"8-bit"
+            "imagen":"images/descarga 8-bit.jpg"
+            "descripcion":"8-BIT es un Brawler Común que se desbloquea a los 6000 copas, el dispara láseres de forma similar a Colt. Su súper consiste en poner una torreta que aumenta su daño en un rango determinado. Su primer Gadget, Cartucho teletransportador, lo teletransporta instantáneamente a su Amplificadaño"
+        }
+        {
+            "nombre":"byron"
+            "imagen":"Byyon.jpg"
+            "descripcion":"Este personaje se caracteriza por ser de salud muy baja, y una velocidad no tan favorecedora, pero que esos puntos no te engañen, porque posee unas habilidades de ataque a larga distancia asombrosas que lo hacen un aliado fenomenal y de mucha utilidad dentro del juego."
+        }
+        {
+            "nombre":"max"
+            "imagen":"images/images.jpg"
+            "descripcion":"Max es una Brawler Mítica con una salud moderada, un daño moderado y una velocidad de movimiento muy rápida. Para su ataque, Max dispara rápidamente 4 proyectiles de largo alcance en una ligera extensión. Su Súper aumenta momentáneamente la velocidad de movimiento de ella y sus aliados cercanos."
+        }
+        {
+            "nombre":"genio"
+            "imagen":"images(1)genio.jpg"
+            "descripcion":"Genio es un Brawler Mítico que tiene una salud y daño moderados. Ataca con magia que sale de su lampara y su súper es una mano que agarra a los enemigos y los trae a Genio. Su primer gadget, Lampara quemada, hace retroceder a todos los enemigos cercanos y cura a el mismo una pequeña cantidad."
+        }
+        {
+            "nombre":"leon"
+            "imagen":"images/images.jpg"
+            "descripcion":"eon es un Brawler Legendario que tiene una salud moderada y hace una gran cantidad de daño a corta distancia. Ataca lanzando cuatro shurikens que causan menos daño mientras más lejos estes. El super de Leon lo hace temporalmente invisible para los enemigos."
+        }
+    ]
